@@ -1,7 +1,7 @@
 Vim training class notes
 ===========
 
-Class notes from the Vim classes I taught at BuffaloLab.
+Class notes from the Vim classes taught at BuffaloLab.
 
 Class 1 has no video as it was just showing people how to install Vim.
 
